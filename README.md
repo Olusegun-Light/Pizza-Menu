@@ -35,6 +35,10 @@ The pizza menu includes a variety of pizzas with details such as name, ingredien
 
 - The application is wrapped in `React.StrictMode` for enhanced development mode checks.
 
+### 6. Dynamic Content
+
+- The `Menu` component dynamically displays a message about the authenticity and creativity of the pizza menu.
+
 ## Running the Application
 
 To run the application, ensure you have Node.js installed and follow these steps:
