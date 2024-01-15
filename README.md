@@ -46,7 +46,7 @@ To run the application, ensure you have Node.js installed and follow these steps
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-pizza-app.git
+   git clone https://github.com/Olusegun-Light/Pizza-Menu
    cd react-pizza-app
    ```
 
