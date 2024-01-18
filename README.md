@@ -41,7 +41,6 @@ The pizza menu includes a variety of pizzas with details such as name, ingredien
 
 ## Running the Application
 
-To run the application, ensure you have Node.js installed and follow these steps:
 
 1. Clone the repository:
 
